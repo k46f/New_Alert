@@ -1,0 +1,4 @@
+New_Alert.MainActivity, New_Alert;md5d82037d1d161bd2f258904bb74cf1300.MainActivity
+New_Alert.MainActivity, New_Alert, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d82037d1d161bd2f258904bb74cf1300.MainActivity
+New_Alert.MainActivity;md5d82037d1d161bd2f258904bb74cf1300.MainActivity
+new_alert.MainActivity;md5d82037d1d161bd2f258904bb74cf1300.MainActivity

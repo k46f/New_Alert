@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">New_Alert</string>
+    <string name="Name">Name</string>
+    <string name="LName">Last name</string>
+    <string name="SButton">Send</string>
+    <string name="TText"></string>
+</resources>

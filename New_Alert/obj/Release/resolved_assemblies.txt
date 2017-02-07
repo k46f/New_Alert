@@ -1,0 +1,9 @@
+C:\Users\k46f\New_Alert\New_Alert\New_Alert\obj\Release\android\assets\New_Alert.dll
+C:\Users\k46f\New_Alert\New_Alert\New_Alert\obj\Release\android\assets\Java.Interop.dll
+C:\Users\k46f\New_Alert\New_Alert\New_Alert\obj\Release\android\assets\Mono.Android.dll
+C:\Users\k46f\New_Alert\New_Alert\New_Alert\obj\Release\android\assets\mscorlib.dll
+C:\Users\k46f\New_Alert\New_Alert\New_Alert\obj\Release\android\assets\System.Core.dll
+C:\Users\k46f\New_Alert\New_Alert\New_Alert\obj\Release\android\assets\System.dll
+C:\Users\k46f\New_Alert\New_Alert\New_Alert\obj\Release\android\assets\System.Xml.dll
+C:\Users\k46f\New_Alert\New_Alert\New_Alert\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\k46f\New_Alert\New_Alert\New_Alert\obj\Release\android\assets\System.ServiceModel.Internals.dll
